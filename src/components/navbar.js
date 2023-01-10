@@ -2,7 +2,7 @@ import React from "react";
 import './navbar.css';
 import { Link } from "react-router-dom";
 
-const NavbarMain = () => {1
+const NavbarMain = () => {
   return (
     <section className='nav-section'>
         <nav className="navbar navbar-expand-lg navbar-light bg-light CustomNavbar">
