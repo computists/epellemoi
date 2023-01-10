@@ -7,7 +7,6 @@ import reportWebVitals from './reportWebVitals';
 import { HashRouter as Router } from "react-router-dom";
 import { configureStore } from '@reduxjs/toolkit';
 import { Provider } from 'react-redux';
-//import rootReducer from './reducers/rootReducer';
 import postsSlice from './reducers/postsSlice';
 
 //const store = configureStore({reducer: postsSlice});
