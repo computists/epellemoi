@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
 
 import Home from "./routes/home";
 import Words from "./routes/words";
-import NavbarMain from "./routes/navbar";
+import NavbarMain from "./components/navbar";
 import ShowSingleWord from "./routes/showSingleWord";
 import EditWord from "./routes/editWord";
 import Test from "./routes/test";
