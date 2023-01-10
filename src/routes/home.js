@@ -6,7 +6,7 @@ import icon2 from "../images/approval.png"
 import icon3 from "../images/game-controller.png"
 
 
-import './Home.css';
+import '../components/Home.css';
 
 
 const Home = () => {
