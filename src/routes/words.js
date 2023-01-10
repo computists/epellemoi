@@ -1,6 +1,6 @@
 import React from "react";
-import AddWords from "./addWords";
-import ShowWords from "./showWords";
+import AddWords from "../components/addWords";
+import ShowWords from "../components/showWords";
 
 const Words = () => {
 
