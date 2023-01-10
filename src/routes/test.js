@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchPosts } from "../reducers/postsSlice";
-import { Spinner } from "./spinner";
+import { Spinner } from "../components/spinner";
 import { selectAllPosts } from "../reducers/postsSlice";
 
 
