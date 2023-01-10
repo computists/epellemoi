@@ -1,12 +1,20 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 
-import Home from "./components/home";
-import Words from "./components/words";
-import NavbarMain from "./components/navbar";
-import ShowSingleWord from "./components/showSingleWord";
-import EditWord from "./components/editWord";
-import Test from "./components/test";
+import Home from "./routes/home";
+import Words from "./routes/words";
+import NavbarMain from "./routes/navbar";
+import ShowSingleWord from "./routes/showSingleWord";
+import EditWord from "./routes/editWord";
+import Test from "./routes/test";
+
+// import Home from "./components/home";
+// import Words from "./components/words";
+// import NavbarMain from "./components/navbar";
+// import ShowSingleWord from "./components/showSingleWord";
+// import EditWord from "./components/editWord";
+// import Test from "./components/test";
+
 
 import './App.css';
 
